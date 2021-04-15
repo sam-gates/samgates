@@ -25,9 +25,7 @@ body {
   color: red;
 }
 
-a {
-  color: orange;
-}
+
 
 h2 {
   font-family: "Proza Libre", sans-serif;
@@ -84,6 +82,7 @@ nav {
 
 .project-title h3 {
   display: inline;
+  color: orange;
 }
 
 details {
